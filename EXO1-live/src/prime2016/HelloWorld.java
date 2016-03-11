@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello B and C and E!");
 		System.out.println("Hello D!");
 		System.out.println("Hello F!");
+		System.out.println("Hello G!");
 	}
 
 }
